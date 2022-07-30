@@ -1,0 +1,11 @@
+node_modules/
+.vs/
+*.pem
+.terraform
+.terraform*
+cm/terraform.tfstate.backup
+cm/terraform.tfstate
+*.jpg
+app.js
+package-lock.json
+package.json
