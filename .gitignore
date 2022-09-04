@@ -9,3 +9,4 @@ cm/terraform.tfstate
 app.js
 package-lock.json
 package.json
+__debug_bin.exe
