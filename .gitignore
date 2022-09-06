@@ -7,6 +7,4 @@ cm/terraform.tfstate.backup
 cm/terraform.tfstate
 *.jpg
 app.js
-package-lock.json
-package.json
 __debug_bin.exe
