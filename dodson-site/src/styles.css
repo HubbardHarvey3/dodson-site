@@ -3,9 +3,12 @@
 @tailwind components;
 @tailwind utilities;
 
-
+@layer base {
+  html {
+    font-family: 
+  }
+}
 
 body {
-  height: 100vh;
-  overflow: hidden;
+
 }

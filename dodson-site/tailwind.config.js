@@ -11,7 +11,11 @@ module.exports = {
         'yellowish': '#FFE15A',
         'accent': '#8EA4D2',
         'whiteish': '#CEE7E6'
-
+      },
+      fontFamily: {
+        'para': ['Taviraj'],
+        'small-header': ['Fenix'],
+        'header': ['Prata'] 
       }
     },
   },
